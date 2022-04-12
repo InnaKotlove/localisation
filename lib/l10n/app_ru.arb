@@ -1,8 +1,10 @@
 {
 	"title": "Медовая лавка",
 	"winnieName": "Винни-Пух",
-	"honey": "{amount} банки {manufacturer}",
-	"guests": "{amount, plural, =0{Нету гостей} =1{{amount} гость} =few{{amount} гостя} =other{{amount} гостей}}",
+	"honey": "{amount, plural, =0{Пока ничего} =1{{amount} банка} =few{{amount} банки} =other{{amount} банок}}",
+	"price": "{price}",
 	"itemTotal": "Сумма: {value}",
-	"born": "Рожден {date}"
+	"born": "Рожден {date}",
+	"rabbit": "Кролик",
+	"tiger": "Тигра"
 }
